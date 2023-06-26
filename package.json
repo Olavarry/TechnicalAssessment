@@ -1,0 +1,24 @@
+{
+  "name": "technicaltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "./node_modules/.bin/cypress open",
+    "test": "./node_modules/.bin/cypress run --reporter mochawesome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olavarry/TechnicalAssessment.git"
+  },
+  "author": "Luis Olavarria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olavarry/TechnicalAssessment/issues"
+  },
+  "homepage": "https://github.com/Olavarry/TechnicalAssessment#readme",
+  "devDependencies": {
+    "cypress": "^12.15.0",
+    "mochawesome": "^7.1.3"
+  }
+}
