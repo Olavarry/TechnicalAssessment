@@ -8,6 +8,10 @@ Do the following on your terminal -
 
     git clone https://github.com/Olavarry/TechnicalAssessment.git
 
+**2. IMPORTANT!!! Go to tecnhical Test Assessment**
+
+    cd TechnicalAssesment/
+
 **3. make sure you are using node 18.16.1**
 
     nvm i && nvm use
