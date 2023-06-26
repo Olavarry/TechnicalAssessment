@@ -1,18 +1,12 @@
 # TechnicalAssessment
 
-
-
 ## Setup Locally
 
 Do the following on your terminal -
 
 **1. Clone this repo**
 
-    cd ~/git && git clone git@ghe.coxautoinc.com:DDC-WebPlatform/web-ui-suite.git
-
-**2. Go to technicalAssessment**
-
-    cd technicalAssessment
+    git clone https://github.com/Olavarry/TechnicalAssessment.git
 
 **3. make sure you are using node 18.16.1**
 
